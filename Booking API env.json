@@ -1,0 +1,33 @@
+{
+	"id": "dc8b89a0-262d-43fd-a986-5f107b182459",
+	"name": "Booking API",
+	"values": [
+		{
+			"key": "fname",
+			"value": "Testers",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lname",
+			"value": "Tallk",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "b_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "b_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-07-08T20:29:21.328Z",
+	"_postman_exported_using": "Postman/11.52.6"
+}
