@@ -83,8 +83,12 @@ These commands iterate over the data file rows and execute the collection for ea
 
 This project includes a sample Jenkins job configuration (`BookingAPI_JenkinsJob1.txt`).
 
-**Example Windows batch command:**
+### Example Windows batch command:
+
+```bat
 newman run "%WORKSPACE%\Booking API collection.json" -e "%WORKSPACE%\Booking API env.json"
+```
+
 This allows you to integrate API testing into your CI/CD pipeline and generate reports automatically with each build.
 
 ---
